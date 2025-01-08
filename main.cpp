@@ -151,7 +151,7 @@ void handleJump(Sprite& icysprite)
 
 
 }
-//scrolling
+//scrolling the screen
 float scrollspeed = 1;
 bool isStart = false;
 bool isscrolling = false;
